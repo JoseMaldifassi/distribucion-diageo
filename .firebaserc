@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "quality-dashboard-produc-53e7b",
+    "DIAGEO": "sistema-distribucion-diageo"
+  },
+  "targets": {},
+  "etags": {}
+}
